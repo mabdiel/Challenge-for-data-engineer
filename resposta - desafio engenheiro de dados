@@ -5,4 +5,6 @@ deverá apresentar um resultado do valor total do mês. Descreva em até 500 pal
 
 Resposta:
 
-Uma solução para esse caso, seria a utilização de uma arquitetura de dados moderna, utilizando a cloud Mirosoft Azure, que seja capaz de unificar cargas de trabalho de forma eficiente e confiável em qualquer escala, fornecendo insights por meio de painéis de análise, relatórios ou análise avançada. O Azure Databricks forma o núcleo da solução. Essa plataforma funciona perfeitamente com outros serviços, como Azure Data Lake Storage, Azure Data Factory, Azure Synapse Analytics e Power BI.
+Uma solução para esse caso, seria a utilização de uma arquitetura de dados moderna, utilizando a cloud Mirosoft Azure, que seja capaz de unificar cargas de trabalho 
+de forma eficiente e confiável em qualquer escala, fornecendo insights por meio de painéis de análise, relatórios ou análise avançada. O Azure Databricks forma o 
+núcleo da solução. Essa plataforma funciona perfeitamente com outros serviços, como Azure Data Lake Storage, Azure Data Factory, Azure Synapse Analytics e Power BI.
